@@ -14,6 +14,6 @@ play!
 
 Demo video : -
 
-![image]https://github.com/Gyaniultimate/office-rock-paper/blob/master/WhatsApp%20Video%202022-03-15%20at%206.11.41%20AM.mp4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNc_P6rwGwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-</video>
+
