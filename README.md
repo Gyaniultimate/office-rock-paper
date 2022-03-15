@@ -13,6 +13,7 @@
 
 
 ![LinkedIn][linkedin-shield]
+ <a href="https://www.youtube.com/watch?v=JNc_P6rwGwk">View Demo</a>
 
 
 
@@ -33,7 +34,7 @@
     
 </div>
  ·
-    <a href="https://www.youtube.com/watch?v=JNc_P6rwGwk">View Demo</a>
+   
 <br>
 
 
