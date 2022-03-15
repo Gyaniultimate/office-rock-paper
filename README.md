@@ -12,8 +12,7 @@ play!
 (make sure you are connected to internet)
 
 
-Demo video : -
-<html>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNc_P6rwGwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <html> 
+![image](https://user-images.githubusercontent.com/62829009/158284872-81ecfd00-95f6-4948-83c6-7772a665b200.png)
+
+
 
