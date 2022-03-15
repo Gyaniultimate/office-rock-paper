@@ -25,7 +25,7 @@
   <p align="center">
     Michael plays against dwight who has transformed into a persistent and tough AI enemy! 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+   
     <br />
     <br />
     <a href="https://www.youtube.com/watch?v=JNc_P6rwGwk">View Demo</a>
@@ -75,7 +75,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -88,7 +87,6 @@ Use the `BLANK_README.md` to get started.
 * TensorFlow.js
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -108,7 +106,6 @@ Run npm install to install the required libraries
 1. npm start to run the development server on your local machine
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/gyanendra-prakash-a65122168/
