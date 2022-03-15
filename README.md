@@ -12,7 +12,7 @@
 
 
 
-[LinkedIn][linkedin-shield]
+![LinkedIn][linkedin-shield]
 
 
 
