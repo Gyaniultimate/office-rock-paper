@@ -26,8 +26,7 @@
     Michael plays against dwight who has transformed into a persistent and tough AI enemy! 
     <br />
    
-    <br />
-    <br />
+  
     <a href="https://www.youtube.com/watch?v=JNc_P6rwGwk">View Demo</a>
     ·
     
