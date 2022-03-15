@@ -29,9 +29,9 @@
   
   
     ·
-    
-  </p>
     <a href="https://www.youtube.com/watch?v=JNc_P6rwGwk">View Demo</a>
+  </p>
+    
 </div>
 
 <br>
