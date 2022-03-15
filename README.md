@@ -14,6 +14,6 @@ play!
 
 Demo video : -
 
-<video src="https://youtu.be/JNc_P6rwGwk" controls>
+![]https://youtu.be/JNc_P6rwGwk
   
 </video>
