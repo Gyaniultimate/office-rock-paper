@@ -109,6 +109,11 @@ Run npm install to install the required libraries
 
 1. npm start to run the development server on your local machine
 
+### Design Document
+
+[Design Document .pdf](https://github.com/Gyaniultimate/office-rock-paper/files/8249672/Design.Document.pdf)
+
+
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
