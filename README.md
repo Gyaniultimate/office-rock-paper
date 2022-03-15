@@ -16,7 +16,7 @@
 <br>
  <a href="https://www.youtube.com/watch?v=JNc_P6rwGwk">View Demo</a>
  
- Try it out : https://gyani-office-rock-paper.netlify.app/
+ <h2>Try it out </h2> : https://gyani-office-rock-paper.netlify.app/
 
 
 
