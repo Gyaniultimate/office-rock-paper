@@ -12,7 +12,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/gyanendra-prakash-a65122168/]
+[![LinkedIn][linkedin-shield]][]
 
 
 
@@ -138,5 +138,5 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]:https://www.linkedin.com/in/gyanendra-prakash-a65122168/
 
