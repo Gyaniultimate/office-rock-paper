@@ -12,7 +12,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/gyanendra-prakash-a65122168/]
 
 
 
