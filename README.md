@@ -28,15 +28,12 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+
+  <h3 align="center">Office Rock paper Scissors</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Michael plays against dwight who has transformed into a persistent and tough AI enemy! 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
