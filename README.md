@@ -68,7 +68,8 @@
 
 
 
-
+This web app uses hand pose detection model of TensorFlow library to recognise the gestures made by user fed as video stream in the server. The Math.Random function is used to 
+select a random gesture (out of rock , paper and scissors) as the AI move. 
 
 
 
