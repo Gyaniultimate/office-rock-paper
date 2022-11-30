@@ -89,7 +89,7 @@ select a random gesture (out of rock , paper and scissors) as the AI move.
 
 
 
-* [React.js](https://reactjs.org/)
+
 * TensorFlow.js
 
 
